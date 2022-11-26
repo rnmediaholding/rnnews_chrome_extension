@@ -1,0 +1,9 @@
+{
+	"name": "RN News",
+	"version": "0.0.1",
+	"description": "Официальное расширение новостного проекта RN News от RN Media Holding",
+	"manifest_version": 3,
+	"action": {
+		"default_popup": "index.html"
+	}
+}
