@@ -1,7 +1,7 @@
 {
 	"name": "RN News",
-	"version": "0.2.2",
-	"description": "Официальное расширение новостного проекта RN News от RN Media Holding для браузера Google Chrome",
+	"version": "0.3.2",
+	"description": "Официальное расширение новостного проекта RN News от RN Media Holding для браузера Google Chrome. Внутрь расширения встроен рекомендательный сервис статей от RN Media Holding",
 	"manifest_version": 3,
 	"icons": {
 		"16": "icon.png"
