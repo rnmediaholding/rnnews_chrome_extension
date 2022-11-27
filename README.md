@@ -8,5 +8,5 @@
 
 Приятного использования!
 
-Команда RN News
+Команда RN News  
 © RN Media Holding 2022
